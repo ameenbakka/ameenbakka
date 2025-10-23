@@ -17,7 +17,7 @@
 📊 Worked on projects like **SmartBank** (bank management system), **GoCargo** (transport booking platform), and **StyleNest** (e-commerce system)  
 🧩 Love solving problems, optimizing queries, and designing scalable architectures  
 📚 Constantly learning new technologies and improving system design skills  
-📫 Reach me at: [ameensahil1323@gmail.com](mailto:ameensahil1323@gmail.com)  
+📫 Reach me at: [ameensahil1323@gmail.com](mailto:ameensahil1323@gmail.com) | 📞 +91 7909221323
 
 ---
 
